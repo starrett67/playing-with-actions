@@ -1,0 +1,23 @@
+{
+  "name": "playing-with-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starrett67/playing-with-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/starrett67/playing-with-actions/issues"
+  },
+  "homepage": "https://github.com/starrett67/playing-with-actions#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
